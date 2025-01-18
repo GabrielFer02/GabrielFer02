@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdwb3AzOHFhZXBkaDRzdGxlamRocWhzbzRzYmtpbzFkY3Y5Z2pkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbV2mrHs6ureBPUEuJ/giphy.gif" width="100%" height="500"> </div>
+<div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdwb3AzOHFhZXBkaDRzdGxlamRocWhzbzRzYmtpbzFkY3Y5Z2pkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbV2mrHs6ureBPUEuJ/giphy.gif" width="100%" height="600"> </div>
 
 <div>
 <a href = "mailto:gf313074@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
