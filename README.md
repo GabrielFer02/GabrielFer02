@@ -20,7 +20,7 @@ Experiência na área de atuação em grandes projetos de empresas no ramo finan
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFer02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
+![Snake animation](https://github.com/GabrielFer02/GabrielFer02/blob/output/github-contribution-grid-snake.svg)
 
 
 
