@@ -11,7 +11,13 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br>
-<br>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,react,astro,nest,postgres,mongodb,prisma,docker&perline=" />
+  </a>
+</p>
 
 <p align="center">
 <a href="https://github.com/GabrielFer02">
@@ -22,19 +28,9 @@
 <!-- <p align="center" atyle="box-shadow: 0 2px 2px 2px rgba(231, 111, 81, 0.2), 0 -2px 0 0 rgba(231, 111, 81, 0.2)">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
 </p> -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,typescript,react,astro,nest,postgres,mongodb,prisma,docker&perline=" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GabrielFer02&theme=dracula" alt="GitHub Streak" /></a>
-</p>
-
-![Snake animation](https://github.com/GabrielFer02/GabrielFer02/blob/output/github-contribution-grid-snake.svg)
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielFer02&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
