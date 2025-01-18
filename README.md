@@ -1,9 +1,4 @@
-# 👨🏻‍💻 Gabriel Fernando
-**`FullStack Developer`**
-
-Experiência na área de atuação em grandes projetos de empresas no ramo financeiro como desenvolvedor de Software e Web. Comecei no mercado de desenvolvimento em 2022 e sigo me aprimorando a cada dia.
-
-  Tenho foco em desenvolvimento de Softwares e aplicações Web que tenham valor. Prezo pela consistência ao aprender uma tecnologia/linguagem nova e procuro me adaptar ao máximo a mudanças, seja em relação a padrão de projeto, questões empresariais, técnicas de desenvolvimento e juntamente com isso, esforço, eficiência e trabalho em equipe.</p>
+<div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdwb3AzOHFhZXBkaDRzdGxlamRocWhzbzRzYmtpbzFkY3Y5Z2pkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbV2mrHs6ureBPUEuJ/giphy.gif" width="100%" height="700"> </div>
 
 <div>
 <a href = "mailto:gf313074@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
