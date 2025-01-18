@@ -28,7 +28,9 @@
   </a>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GabrielFer02&theme=dracula" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GabrielFer02&theme=dracula" alt="GitHub Streak" /></a>
+</p>
 
 ![Snake animation](https://github.com/GabrielFer02/GabrielFer02/blob/output/github-contribution-grid-snake.svg)
 
