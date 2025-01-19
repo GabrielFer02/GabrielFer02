@@ -1,3 +1,4 @@
+<div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdwb3AzOHFhZXBkaDRzdGxlamRocWhzbzRzYmtpbzFkY3Y5Z2pkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbV2mrHs6ureBPUEuJ/giphy.gif" width="100%" height="600"> </div>
 
 
 <p align="center">
@@ -34,6 +35,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielFer02&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=default&show_offline=false&background_color=5f545a&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&redirect=true)
+
+<div align="right" style="margin:-450px 0 0 32px;">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJ5MnRrYmNsbjZmZjZteHlvM2Yzcnk3Z3hlaDA1Y2V4bmhuZnFocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57SRSRwunPOSvkB9MB/giphy.gif" width="350px" height="400px"> 
+</div>
 
 
 
