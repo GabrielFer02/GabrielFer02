@@ -1,6 +1,5 @@
 <div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdwb3AzOHFhZXBkaDRzdGxlamRocWhzbzRzYmtpbzFkY3Y5Z2pkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbV2mrHs6ureBPUEuJ/giphy.gif" width="100%" height="600"> </div>
 
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F85D7FFF&center=true&width=435&lines=Meu+Nome+%C3%A9+Gabriel+Fernando;Sou+um+desenvolvedor+FullStack" alt="Typing SVG" />
 </p>
@@ -31,16 +30,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
 </p> -->
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielFer02&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=default&show_offline=false&background_color=5f545a&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&redirect=true)
 
-<div align="right" style="margin:-450px 0 0 32px;">
+<div align="right">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJ5MnRrYmNsbjZmZjZteHlvM2Yzcnk3Z3hlaDA1Y2V4bmhuZnFocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57SRSRwunPOSvkB9MB/giphy.gif" width="350px" height="400px"> 
 </div>
-
-
-
-
