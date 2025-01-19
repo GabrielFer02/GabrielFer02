@@ -22,14 +22,14 @@
 <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFer02&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=GabrielFer02&theme=monokai-metallian&hide_border=true&short_numbers=true" height="192px/>
-</a>
+      
 </p>
 
-<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="GabrielFer02's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=GabrielFer02&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&radius=6" /></a> -->
+![snake animation](https://github.com/GabrielFer02/GabrielFer02/blob/output/github-contribution-grid-snake-dark.svg)
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="GabrielFer02's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=GabrielFer02&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&radius=6" /></a>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=novatorem&show_offline=false&background_color=5f545a&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&redirect=true)
-
-![snake animation](https://github.com/GabrielFer02/GabrielFer02/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
