@@ -37,5 +37,5 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=novatorem&show_offline=false&background_color=5f545a&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&redirect=true)
 
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlneGFuYjVnejVhd3BkbXdtaWtvZXFucGRucWYxaGRpZmNuYTMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eMsdwTiWGnCnQ12HMd/giphy.gif" width="500px" height="500px"> 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlneGFuYjVnejVhd3BkbXdtaWtvZXFucGRucWYxaGRpZmNuYTMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eMsdwTiWGnCnQ12HMd/giphy.gif"> 
 </div>
