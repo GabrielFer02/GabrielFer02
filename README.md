@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F85D7FFF&center=true&width=435&lines=Meu+Nome+%C3%A9+Gabriel+Fernando;Sou+um+desenvolvedor+FullStack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F85D7F&center=true&width=435&lines=Meu+Nome+%C3%A9+Gabriel+Fernando;Sou+um+desenvolvedor+FullStack" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,3 +30,5 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="GabrielFer02's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=GabrielFer02&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=novatorem&show_offline=false&background_color=5f545a&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&redirect=true)
+
+![snake animation](https://github.com/GabrielFer02/GabrielFer02/blob/output/github-contribution-grid-snake2.svg)
