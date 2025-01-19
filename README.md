@@ -31,5 +31,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=novatorem&show_offline=false&background_color=5f545a&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&redirect=true)
 
+<div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVjMWMxNWY4ZzhjYnR5Y3B2cW5vN2h2MWdzYno4eDVvM3V2dmtrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57SRSRwunPOSvkB9MB/giphy.gif">
-
+</div>
