@@ -21,8 +21,11 @@
 <br>
 <br>
 
+<p align="center">
 <a href="https://github.com/GabrielFer02">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFer02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFer02&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
 </a>
 <br>
 <!-- <p align="center" atyle="box-shadow: 0 2px 2px 2px rgba(231, 111, 81, 0.2), 0 -2px 0 0 rgba(231, 111, 81, 0.2)">
