@@ -1,5 +1,3 @@
-<!-- <div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdwb3AzOHFhZXBkaDRzdGxlamRocWhzbzRzYmtpbzFkY3Y5Z2pkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbV2mrHs6ureBPUEuJ/giphy.gif" width="100%" height="600"> </div> -->
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F85D7FFF&center=true&width=435&lines=Meu+Nome+%C3%A9+Gabriel+Fernando;Sou+um+desenvolvedor+FullStack" alt="Typing SVG" />
 </p>
@@ -27,12 +25,7 @@
 </a>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFer02&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 </p>
-
-
 <br>
-<!-- <p align="center" atyle="box-shadow: 0 2px 2px 2px rgba(231, 111, 81, 0.2), 0 -2px 0 0 rgba(231, 111, 81, 0.2)">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
-</p> -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="GabrielFer02's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=GabrielFer02&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
