@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/a701f2ae-33ff-48dd-a1d5-39e49c47cab4)
+<img src="https://github.com/user-attachments/assets/a701f2ae-33ff-48dd-a1d5-39e49c47cab4" width="800px" height="300px">
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F85D7F&center=true&width=435&lines=Meu+Nome+%C3%A9+Gabriel+Fernando;Sou+um+desenvolvedor+FullStack" alt="Typing SVG" />
