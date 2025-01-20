@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/a701f2ae-33ff-48dd-a1d5-39e49c47cab4" style="min-width: 200px; max-width: 250px; width: 30%" alt="Waren Gonzaga's Dev Card" align="right">
+<img src="https://github.com/user-attachments/assets/a701f2ae-33ff-48dd-a1d5-39e49c47cab4" style="min-width: 200px; max-width: 250px; width: 30%; margin-top: -300px" alt="Waren Gonzaga's Dev Card" align="right">
 </div>
 <!-- <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
