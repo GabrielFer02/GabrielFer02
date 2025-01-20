@@ -24,7 +24,7 @@
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=GabrielFer02&theme=monokai-metallian&hide_border=true&short_numbers=true" height="192px/>
 </p>
 
-<div align=" left">
+<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=novatorem&show_offline=false&background_color=5f545a&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&redirect=true)
 
