@@ -30,14 +30,11 @@
 
 ![snake animation](https://github.com/GabrielFer02/GabrielFer02/blob/output/github-contribution-grid-snake-dark.svg)
 
-<div align="left">
+<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/a701f2ae-33ff-48dd-a1d5-39e49c47cab4" style="min-width: 200px; max-width: 250px; width: 30%; margin-top: -300px" alt="Waren Gonzaga's Dev Card" align="right">
-</div>
 <!-- <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <p align="left">
