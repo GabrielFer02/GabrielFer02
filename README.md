@@ -36,7 +36,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/a701f2ae-33ff-48dd-a1d5-39e49c47cab4" style="min-width: 200px; max-width: 250px; width: 30%" alt="Waren Gonzaga's Dev Card" align="right">
+<img src="https://github.com/user-attachments/assets/a701f2ae-33ff-48dd-a1d5-39e49c47cab4" style="min-width: 200px; max-width: 350px; width: 300px; margin-top: -350px" alt="Waren Gonzaga's Dev Card" align="right">
 </div>
 
 <!-- <details open>
