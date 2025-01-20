@@ -10,15 +10,19 @@
 <a href="https://www.linkedin.com/in/gabriel-fernando-59222921b/" target="_blank"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/e9ea02d4-bcf3-4c15-bb6d-126fb570c2ad"/></a>
   <a href="https://x.com/el_gabrielfer" target="_blank"><img width="55" alt="Twitter" title="Twitter" src="https://github.com/user-attachments/assets/b630c87f-53c4-4b36-80d1-e70f0be443d4"/></a>
 </p>
+
 <br>
 <br>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,typescript,react,astro,nest,postgres,mongodb,prisma,docker,bash&perline=" />
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,react,astro,nest,bash,postgres,mongodb,prisma,docker" />
   </a>
 </p>
+
 <br>
 <br>
+
 <p align="center">
 <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=GabrielFer02&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFer02&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
