@@ -24,6 +24,7 @@
 <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFer02&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=GabrielFer02&theme=monokai-metallian&hide_border=true&short_numbers=true" height="192px/>
+
 </p>
 
 ![snake animation](https://github.com/GabrielFer02/GabrielFer02/blob/output/github-contribution-grid-snake-dark.svg)
