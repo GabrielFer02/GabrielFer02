@@ -34,6 +34,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=default&show_offline=false&background_color=58094a&interchange=false&bar_color=fb5d7f)](https://github.com/kittinan/spotify-github-profile)
+
 <!-- <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <p align="left">
