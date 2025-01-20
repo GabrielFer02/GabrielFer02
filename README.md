@@ -31,13 +31,8 @@
 ![snake animation](https://github.com/GabrielFer02/GabrielFer02/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
-<div align="left">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=novatorem&show_offline=false&background_color=5f545a&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&redirect=true)
-</div>
-<div align="right">
-<img src="https://github.com/user-attachments/assets/a701f2ae-33ff-48dd-a1d5-39e49c47cab4" height="400px" width="300px">
-</div>
 </div>
 
 <!-- <details open>
