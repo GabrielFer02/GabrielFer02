@@ -26,6 +26,6 @@
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=GabrielFer02&theme=monokai-metallian&hide_border=true&short_numbers=true" height="192px/>
 </p>
 
-<div></div>
+<div align="center"></div>
 
 ![snake animation](https://github.com/GabrielFer02/GabrielFer02/blob/output/github-contribution-grid-snake-dark.svg)
