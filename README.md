@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/gabriel-fernando-59222921b/" target="_blank"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/e9ea02d4-bcf3-4c15-bb6d-126fb570c2ad"/></a>
   <a href="https://x.com/el_gabrielfer" target="_blank"><img width="55" alt="Twitter" title="Twitter" src="https://github.com/user-attachments/assets/b630c87f-53c4-4b36-80d1-e70f0be443d4"/></a>
-  <a href="https://dev.to/gabrielfer" target="_blank"><img width="42" alt="Twitter" title="Twitter" src="https://github.com/user-attachments/assets/b6ec28c6-c968-489e-81c7-81c1cbe9579e"/></a>
+  <a href="https://dev.to/gabrielfer" target="_blank"><img width="43" alt="Twitter" title="Twitter" src="https://github.com/user-attachments/assets/b6ec28c6-c968-489e-81c7-81c1cbe9579e"/></a>
 </p>
 
 <br>
