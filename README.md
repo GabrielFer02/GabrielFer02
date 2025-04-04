@@ -38,5 +38,6 @@
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="48%" height="auto" alt="">
-    <img src="https://github.com/user-attachments/assets/2ebd8018-bf9e-40c6-b4fb-bfd04d8d8e2a" width="48%" height="48%%" alt="">
+    <img src="https://github.com/user-attachments/assets/7aac8926-dc21-4662-9780-845390c803d7" width="48%" alt="">
 </div>
+
