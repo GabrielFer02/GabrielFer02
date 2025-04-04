@@ -36,7 +36,7 @@
 ![snake animation](https://github.com/GabrielFer02/GabrielFer02/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="48%" height="auto" alt="">
     <img src="https://github.com/user-attachments/assets/7aac8926-dc21-4662-9780-845390c803d7" width="48%" alt="">
 </div>
