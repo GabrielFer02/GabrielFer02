@@ -39,7 +39,3 @@
 <div align="center">
    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="">
 </div>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
