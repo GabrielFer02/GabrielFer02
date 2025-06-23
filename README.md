@@ -42,5 +42,5 @@
 </div>
 
 <div align="center">
-   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=b253a0" alt="">
+   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="">
 </div>
