@@ -37,5 +37,10 @@
 </div>
 
 <div align="center">
-   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="">
+
+  ![Image](https://github.com/user-attachments/assets/2ebd8018-bf9e-40c6-b4fb-bfd04d8d8e2a)
+</div>
+
+<div align="center">
+   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fernandogabriel054&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="">
 </div>
